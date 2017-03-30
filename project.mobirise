@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -749,6 +749,82 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "slider3",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-10-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "CLASSIC CARS",
+                "showText": true,
+                "text": "We have a growing range of classic car designs featuring some of the greatest automobile designs. From Italian legends to British icons.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLASSICS GARAGE</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-12-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "MOTORSPORT",
+                "showText": true,
+                "text": "Our Motorsport range covers some the greatest cars and races. From the Mille Miglia to the Monaco Grand Prix we have the cars and tracks that have shaped the sport.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PIT &amp; PADDOCK</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-11-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "CLASSIC BIKES",
+                "showText": true,
+                "text": "Classic bikes from all eras make up our motorcycle heritage range. With classics from Velocette to the two stroke FS1E moped there is something for all tastes in the bike shed.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">THE BIKE SHED<br></a> "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-13-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "CLASSIC TRACTORS",
+                "showText": true,
+                "text": "Choose from the iconic classic tractors range which includeds many of the all time favourites. everyone loves a Ferguson TE20 or Massey 135. Great machines that feature in our growing range.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TRACTOR BARN</a> "
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider3-1n",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "features3",
           "_anchor": "features3-1g",
           "_params": {
@@ -861,82 +937,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider3",
-          "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": 5,
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-10-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "CLASSIC CARS",
-                "showText": true,
-                "text": "We have a growing range of classic car designs featuring some of the greatest automobile designs. From Italian legends to British icons.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLASSICS GARAGE</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-12-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "MOTORSPORT",
-                "showText": true,
-                "text": "Our Motorsport range covers some the greatest cars and races. From the Mille Miglia to the Monaco Grand Prix we have the cars and tracks that have shaped the sport.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PIT &amp; PADDOCK</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-11-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "CLASSIC BIKES",
-                "showText": true,
-                "text": "Classic bikes from all eras make up our motorcycle heritage range. With classics from Velocette to the two stroke FS1E moped there is something for all tastes in the bike shed.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">THE BIKE SHED<br></a> "
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/img-13-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.5",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "CLASSIC TRACTORS",
-                "showText": true,
-                "text": "Choose from the iconic classic tractors range which includeds many of the all time favourites. everyone loves a Ferguson TE20 or Massey 135. Great machines that feature in our growing range.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TRACTOR BARN</a> "
-              }
-            ],
-            "fullScreen": false,
-            "bgColor": "#fff",
-            "showBullets": true
-          },
-          "_anchor": "slider3-1n",
-          "articleLayout": false
         },
         {
           "_styles": {
@@ -1175,6 +1175,120 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "slider3",
+          "_styles": {
+            "H2": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-2000x1044.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "AIRLINERS",
+                "showText": true,
+                "text": "Choose from the growing range of heavy traffic designs. From retro airline wear to classic 747, VC10 and Airbus designs.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">AIRPORT APRON</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-4-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Military Aviation",
+                "showText": true,
+                "text": "From classic Spitfires and Hurricanes to Buccaneers and Phantoms have a browse through our military collection.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SQUADRON HANGER</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-5-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "General Aviation",
+                "showText": true,
+                "text": "From the ever popular Cessnas and Pipers to Microlights<br> and Helecopters.&nbsp;",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FLYING CLUB</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-1-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "VINTAGE",
+                "showText": true,
+                "text": "Our Vintage collection tries to evoke the feel of some truly classic aircraft. From the Tiger Moth to the SE5.a and Sopwith Pup these designs are aimed at the historic avaition enthusiast. There really is nothing quite like an old aeroplane !&nbsp;",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">HERITAGE HANGER</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/card2-007m1-2000x1314.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "TAKE TO THE SKY",
+                "showText": true,
+                "text": "Choose a unique Aviation item from our growing range of flight wear. From Polo shirts to T-Shirts and Hi-Viz Vests we have a great range of items which can be fully personalised. &nbsp;",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FLIGHT GEAR STORE</a> "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-6-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Silhouette Series",
+                "showText": true,
+                "text": "Inspried by the wartime reference cards provided to observers and anti aircraft gunners our silhouette series features some WW2 legends including Spitfire, Hurricane, Lancaster, BF109 and FW190",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SILHOUETTE HANGER</a> "
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider3-18",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "features3",
           "_anchor": "features3-17",
           "_params": {
@@ -1287,120 +1401,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider3",
-          "_styles": {
-            "H2": {
-              "text-align": "center"
-            },
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": 5,
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2000x1044.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.4",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "AIRLINERS",
-                "showText": true,
-                "text": "Choose from the growing range of heavy traffic designs. From retro airline wear to classic 747, VC10 and Airbus designs.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">AIRPORT APRON</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-4-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.4",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Military Aviation",
-                "showText": true,
-                "text": "From classic Spitfires and Hurricanes to Buccaneers and Phantoms have a browse through our military collection.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SQUADRON HANGER</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-5-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "General Aviation",
-                "showText": true,
-                "text": "From the ever popular Cessnas and Pipers to Microlights<br> and Helecopters.&nbsp;",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FLYING CLUB</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-1-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "VINTAGE",
-                "showText": true,
-                "text": "Our Vintage collection tries to evoke the feel of some truly classic aircraft. From the Tiger Moth to the SE5.a and Sopwith Pup these designs are aimed at the historic avaition enthusiast. There really is nothing quite like an old aeroplane !&nbsp;",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">HERITAGE HANGER</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/card2-007m1-2000x1314.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "TAKE TO THE SKY",
-                "showText": true,
-                "text": "Choose a unique Aviation item from our growing range of flight wear. From Polo shirts to T-Shirts and Hi-Viz Vests we have a great range of items which can be fully personalised. &nbsp;",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FLIGHT GEAR STORE</a> "
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/img-6-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.6",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Silhouette Series",
-                "showText": true,
-                "text": "Inspried by the wartime reference cards provided to observers and anti aircraft gunners our silhouette series features some WW2 legends including Spitfire, Hurricane, Lancaster, BF109 and FW190",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SILHOUETTE HANGER</a> "
-              }
-            ],
-            "fullScreen": false,
-            "bgColor": "#fff",
-            "showBullets": true
-          },
-          "_anchor": "slider3-18",
-          "articleLayout": false
         },
         {
           "_tags": [
@@ -2812,7 +2812,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#c0a375!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
