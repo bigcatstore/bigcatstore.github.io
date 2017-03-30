@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -227,7 +227,7 @@
           },
           "title1": "About Us",
           "subtitle1": "Who we are and what we do",
-          "caption1": "We have been producing unique printed products since 2008 and we sell to a growing worldwide customer base . Here is a brief introduction to the Big Cat Media business.<br><br><br>",
+          "caption1": "We have been producing unique printed products since 2008 and we sell to a growing worldwide customer base . Here is a brief introduction to the Big Cat Media.<br><br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media2": {
             "image": {
