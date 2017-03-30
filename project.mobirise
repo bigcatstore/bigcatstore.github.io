@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1681,7 +1681,7 @@
           },
           "title1": "Phantom",
           "subtitle1": "Fly Navy with this retro Phantom Design",
-          "caption1": "Now available to buy from our store is the brand new Phantom in Royal Navy livery. Printed onto a Graphite Grey Fruit of the Loom Super Premium shirt it makes a great gift for navy jet fans.",
+          "caption1": "Now available to buy from our store is the brand new Phantom in Royal Navy livery. Printed onto a Graphite Grey Fruit of the Loom Super Premium shirt it makes a great gift for navy jet fans.<br>NOW LIVE AND IN STOCK",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -1697,7 +1697,7 @@
           },
           "title2": "R22",
           "subtitle2": "The classic rotary trainer",
-          "caption2": "Coming very soon is our brand new Robinson R22 design. We haven't had an R22 in the range for quite a while now and this brand new design is only a few weeks away form going into print. Keep watching this space for more updates. &nbsp;<br><br><br>",
+          "caption2": "Coming very soon is our brand new Robinson R22 design. We haven't had an R22 in the range for quite a while now and this brand new design is only a few weeks away form going into print. Keep watching this space for more updates. &nbsp;<br>NOW LIVE AND IN STOCK<br><br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -1760,6 +1760,9 @@
           "_styles": {
             "H3": {
               "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "msg-box5-1z",
@@ -1807,7 +1810,7 @@
             }
           },
           "title": "SHOP AEROCLASSIC",
-          "text": "<b>Take a look at our current aviation products.</b>",
+          "text": "Take a look at our current aviation products<b>.</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
