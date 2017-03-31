@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "page2.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1168,7 +1168,7 @@
             "showButtons": false
           },
           "title": "AEROCLASSIC",
-          "text": "Exclusive Aviation Apparell",
+          "text": "Exclusive Aviation Apparel",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> "
         },
         {
@@ -1244,7 +1244,7 @@
                 "showTitle": true,
                 "title": "VINTAGE",
                 "showText": true,
-                "text": "Our Vintage collection tries to evoke the feel of some truly classic aircraft. From the Tiger Moth to the SE5.a and Sopwith Pup these designs are aimed at the historic avaition enthusiast. There really is nothing quite like an old aeroplane !&nbsp;",
+                "text": "Our Vintage collection aims to evoke the feel of some truly classic aircraft. &nbsp;There really is nothing quite like an old aeroplane !&nbsp;",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">HERITAGE HANGER</a> "
               },
@@ -1258,7 +1258,7 @@
                 "showTitle": true,
                 "title": "TAKE TO THE SKY",
                 "showText": true,
-                "text": "Choose a unique Aviation item from our growing range of flight wear. From Polo shirts to T-Shirts and Hi-Viz Vests we have a great range of items which can be fully personalised. &nbsp;",
+                "text": "Choose a unique Aviation item from our growing range of flight wear. All of which can be fully personalised. &nbsp;",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FLIGHT GEAR STORE</a> "
               },
@@ -1273,7 +1273,7 @@
                 "showTitle": true,
                 "title": "Silhouette Series",
                 "showText": true,
-                "text": "Inspried by the wartime reference cards provided to observers and anti aircraft gunners our silhouette series features some WW2 legends including Spitfire, Hurricane, Lancaster, BF109 and FW190",
+                "text": "Inspried by the wartime reference cards our silhouette series features some WW2 legends printed onto military olive shirts.",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SILHOUETTE HANGER</a> "
               }
