@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1328,7 +1328,7 @@
           "title1": "Latest Projects",
           "subtitle1": "Have a look at our latest design work and test prints",
           "caption1": "We have been producing unique aviation products since 2008 and we have sold our products to a growing woldwide customer base. Here's the latest product news and forthcoming design information.<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"page8.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">COMING SOON</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/phantom-600x400.jpg",
@@ -1344,7 +1344,7 @@
           "title2": "Special Projects",
           "subtitle2": "Current special product information",
           "caption2": "We like to produce some special shirt run products from time to time and here you will find detials of any current or soon to be released items.<br><br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page8.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SPECIAL PRODUCTS</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-2-600x400.jpg",
@@ -1360,7 +1360,7 @@
           "title3": "Webstore",
           "subtitle3": "Take a quick flight to our dedicated webstore",
           "caption3": "All of our unique products are here in one easy to use online store. With secure payments and &nbsp;fast shipping we hope you find something you like. All products are designed and printed by us. No outside suppliers here and we print, pack and ship with care.&nbsp;",
-          "button3": "<a data-app-btn=\"true\" href=\"http://bigcatmedia.co.uk/index.php\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Aeroclassic Store</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://bigcatmedia.co.uk/index.php\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">AEROCLASSIC STORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-600x399.jpg",
@@ -1376,7 +1376,7 @@
           "title4": "Contact Us",
           "subtitle4": "Drop us a line",
           "caption4": "If you need any information or have any specific product questions please drop us a line. We always like to hear from our customers and look forward to your messages.<br><br>&nbsp;",
-          "button4": "<a data-app-btn=\"true\" href=\"page7.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page7.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -1458,7 +1458,7 @@
           },
           "title": "FLIGHT WEAR",
           "text": "Special products designed for aviators. <br>Polo Shirts, Flight Shirts and &nbsp;Hi-Viz Vests. <br>Personalised and printed with your name, <br>club or aircraft.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://bigcatmedia.co.uk/index.php?id_category=61&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">Aviator Wear</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://bigcatmedia.co.uk/index.php?id_category=61&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">AVIATOR WEAR</a>"
         },
         {
           "_styles": {
