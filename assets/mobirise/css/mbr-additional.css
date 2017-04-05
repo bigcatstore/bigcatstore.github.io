@@ -860,12 +860,26 @@ h6,
   font-size: 14px;
 }
 
+
+
+
 #header3-22 .mbr-section-title,
 #header3-22 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-22 H3 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 36px;
+}
 #content1-23 P {
   text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 36px;
+}
+#content1-23 DIV {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 36px;
 }
 #msg-box5-25 H3 {
   color: #ffffff;
