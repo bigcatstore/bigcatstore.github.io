@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -911,7 +911,7 @@
                 "showTitle": true,
                 "title": "CLASSIC BIKES",
                 "showText": true,
-                "text": "Classic bikes from all eras make up our motorcycle heritage range. &nbsp;There is something for all tastes in the bike shed.",
+                "text": "Classic bikes from all eras make up our motorcycle heritage range. &nbsp;There is something for all tastes in bikers corner.",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://bigcatmedia.co.uk/index.php?id_category=67&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">BIKERS CORNER</a> "
               },
