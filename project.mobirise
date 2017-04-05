@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page9.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -258,7 +258,7 @@
             }
           },
           "title3": "Race &amp; Retro",
-          "subtitle3": "Fast Cars, fast bikes and all things race and retro",
+          "subtitle3": "Fast cars, fast bikes and all things race and retro",
           "caption3": "Our Race &amp; Retro products feature classic racing cars, race circuits, vintage motorcycles and lots more. Have a browse through our petrol fuelled designs. All designed and printed right here at Big Cat Media.<br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">RACE &amp; RETRO</a>",
           "media4": {
