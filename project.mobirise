@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -228,7 +228,7 @@
           "title1": "About Us",
           "subtitle1": "Who we are and what we do",
           "caption1": "We have been producing unique printed products since 2008 and we sell to a growing worldwide customer base . Here is a brief introduction to the Big Cat Media.<br><br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ABOUT US</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-3-600x400.jpg",
@@ -244,7 +244,7 @@
           "title2": "Aeroclassic",
           "subtitle2": "Our dedicated aviation brand",
           "caption2": "We have been producing unique aviation products since 2008 and we have sold our products to almost every country across the globe. Take a look at the Aeroclassic brand.<br>Every product is designed, printed, packed and shipped by us.<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">AEROCLASSIC</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-4-600x400.jpg",
@@ -260,7 +260,7 @@
           "title3": "Race &amp; Retro",
           "subtitle3": "Fast Cars, fast bikes and all things race and retro",
           "caption3": "Our Race &amp; Retro products feature classic racing cars, race circuits, vintage motorcycles and lots more. Have a browse through our petrol fuelled designs. All designed and printed right here at Big Cat Media.<br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">RACE &amp; RETRO</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-600x399.jpg",
@@ -276,7 +276,7 @@
           "title4": "Contact Us",
           "subtitle4": "Drop us a line",
           "caption4": "If you need any information or have any specific product questions please drop us a line. We always like to hear from our customers and look forward to your messages.<br><br>&nbsp;",
-          "button4": "<a data-app-btn=\"true\" href=\"page7.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page7.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
