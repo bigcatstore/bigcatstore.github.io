@@ -1174,3 +1174,100 @@ h6,
 #header3-33 .mbr-section-subtitle {
   text-align: center;
 }
+
+
+#menu-44 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-44 .navbar-caption {
+  color: #ffffff;
+}
+#menu-44 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-44 .link,
+#menu-44 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#menu-44 .link {
+  font-size: 1.15rem;
+}
+#menu-44 .dropdown-item,
+#menu-44 .nav-dropdown-sm .link {
+  font-size: 1.245rem;
+}
+#menu-44 .link:hover,
+#menu-44 .dropdown-item:hover,
+#menu-44 .link:focus,
+#menu-44 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-44 .link[aria-expanded="true"],
+#menu-44 .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-44 .nav-dropdown-sm .link:focus,
+#menu-44 .nav-dropdown-sm .link:hover,
+#menu-44 .nav-dropdown-sm .dropdown-item:focus,
+#menu-44 .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-44 .navbar,
+#menu-44 .nav-dropdown-sm,
+#menu-44 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-44 .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-44 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-44 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-44 .bg-color.transparent.opened .link:hover,
+#menu-44 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-44 .link[aria-expanded="true"],
+#menu-44 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-44.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-44 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-44 .close-icon::before,
+#menu-44 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-44 .btn {
+  font-size: 14px;
+}
+#header1-45 .mbr-section-title {
+  text-align: center;
+  font-size: 60px;
+}
+#header1-45 .mbr-section-lead {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 36px;
+}
+#slider3-46 H2 {
+  text-align: center;
+}
+#slider3-46 P {
+  text-align: center;
+}
+#msg-box5-48 P {
+  text-align: right;
+}
+#social-buttons2-49 .mbr-section-title,
+#social-buttons2-49 .btn-social {
+  color: #232323;
+}
+#social-buttons2-49 .mbr-section-title {
+  color: #ffffff;
+}
