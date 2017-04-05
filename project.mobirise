@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "page3.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 156,
+    "uniqCompNum": 169,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -787,8 +787,8 @@
           },
           "title1": "Latest Projects",
           "subtitle1": "Have a look at our latest design work and test prints",
-          "caption1": "We have been producing unique printed products since 2008 and we have sold our products to almost every country across the globe. Here is all the latest news on the Race &amp; Retro product range.<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "caption1": "We have been producing unique printed products since 2008 and we have sold our products to almost every country across the globe. Here is all the latest news on the Race &amp; Retro product range.<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LATEST DESIGNS</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/tcmidget-600x400.jpg",
@@ -804,7 +804,7 @@
           "title2": "Special Projects",
           "subtitle2": "Special short run premium products",
           "caption2": "We like to product some special short run premium products and here you will find detials of any current or soon to be released Race &amp; Retro Special products..<br><br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page9.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SPECIAL PRODUCTS</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-8-600x400.jpg",
@@ -820,7 +820,7 @@
           "title3": "Webstore",
           "subtitle3": "Take a quick spin around our webstore",
           "caption3": "All of our unique products are here in one easy to use online store. With secure payments and &nbsp;fast shipping we hope you find something you like. All products are designed and printed by us. No outside suppliers here and we print, pack and ship with care.&nbsp;",
-          "button3": "<a data-app-btn=\"true\" href=\"http://bigcatmedia.co.uk/index.php?id_category=63&amp;controller=category\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Race &amp; Retro Store</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://bigcatmedia.co.uk/index.php?id_category=63&amp;controller=category\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">RACE &amp; RETRO STORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-600x399.jpg",
@@ -836,7 +836,7 @@
           "title4": "Contact Us",
           "subtitle4": "Drop us a line",
           "caption4": "If you need any information or have any specific product questions please drop us a line. We always like to hear from our customers and look forward to your messages.<br><br>&nbsp;",
-          "button4": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page7.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -2065,8 +2065,8 @@
           },
           "title1": "Ariel Square Four",
           "subtitle1": "Classic British Motorcycle Design",
-          "caption1": "Now available to buy from our store is the brand new Ariel Square Four design. Printed onto a Fruit of the Loom Super Premium heather grey shirt this design features another classic british bike.<br><br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption1": "Now available to buy from our store is the brand new Ariel Square Four design. Printed onto a Fruit of the Loom Super Premium heather grey shirt this design features another classic british bike. &nbsp;NOW LIVE AND IN STOCK<br><br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://bigcatmedia.co.uk/index.php?id_product=1041&amp;controller=product\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BUY ONE NOW</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-9-600x400.jpg",
@@ -2082,10 +2082,10 @@
           "title2": "Chevrolet Panel Van",
           "subtitle2": "The American Classic",
           "caption2": "We are currently working on a new classic Hot Rod design featuring the timeless Chevrolet Panel Van. Work is progressing well and we hope to be running some print test very soon . Keep watching this space for more updates. &nbsp;<br><br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-10-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/jm2-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2095,10 +2095,10 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Triumph Stag",
+          "title3": "All Time Classics",
           "subtitle3": "New Auto Classic Design",
-          "caption3": "With our Auto Classics range growing nicely we have another british classic currently in the design stage. The Triumph Stag has been a best seller in our previous classic car series and this brand new Auto Classics version should be available very soon.<br><br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption3": "With our Auto Classics range growing nicely we have another british classic currently in the design stage. This brand new Auto Classics version should be available very soon.<br><br><br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -2195,7 +2195,7 @@
           },
           "title": "SHOP RACE &amp; RETRO",
           "text": "<b>Take a look at our current products.</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://bigcatmedia.co.uk/index.php?id_category=63&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">SHOP NOW</a>"
         },
         {
           "_styles": {
@@ -2995,12 +2995,8 @@
     },
     "page9.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 3
+        "title": "Web Page Builder Title",
+        "meta_descr": "Web Page Builder Description"
       },
       "components": [
         {
@@ -3065,7 +3061,7 @@
             }
           },
           "_name": "menu",
-          "_anchor": "menu-44",
+          "_anchor": "menu-4j",
           "_params": {
             "bgColor": "#282828",
             "fontSize": "1.15",
@@ -3086,7 +3082,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/bwaerob-613x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bcm-ebaylogo-445x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -3103,367 +3099,81 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://\" aria-expanded=\"false\">NAVIGATE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">About Us</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\">Aeroclassic</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Products</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Special Editions<br>Aeroclassic Store<br><br></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Race &amp; Retro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://bigcatmedia.co.uk/index.php\" target=\"_blank\">SHOP</a></li>"
         },
         {
-          "_name": "header1",
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-size": "60px"
+            ".mbr-section-title, p": {
+              "color": "#fff"
             },
-            ".mbr-section-lead": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "36px"
-            }
-          },
-          "_anchor": "header1-45",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-2-2000x1333.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "AEROCLASSIC",
-          "text": "Exclusive Aviation Apparel",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider3",
-          "_styles": {
-            "H2": {
-              "text-align": "center"
-            },
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": "7",
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2000x1044.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.4",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "AIRLINERS",
-                "showText": true,
-                "text": "Choose from the growing range of heavy traffic designs. From retro airline wear to classic 747, VC10 and Airbus designs.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://bigcatmedia.co.uk/index.php?id_category=57&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">AIRLINER TRAVEL</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-4-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.4",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Military Aviation",
-                "showText": true,
-                "text": "From classic Spitfires and Hurricanes to Buccaneers and Phantoms have a browse through our military collection.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://bigcatmedia.co.uk/index.php?id_category=53&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">MILITARY HANGER</a> "
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/img-5-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "General Aviation",
-                "showText": true,
-                "text": "From the ever popular Cessnas and Pipers to Microlights<br> and Helicopters.&nbsp;",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://bigcatmedia.co.uk/index.php?id_category=59&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">FLYING CLUB</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-1-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "VINTAGE",
-                "showText": true,
-                "text": "Our Vintage collection aims to evoke the feel of some truly classic aircraft. &nbsp;There really is nothing quite like an old aeroplane !&nbsp;",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://bigcatmedia.co.uk/index.php?id_category=55&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">VINTAGE HANGER</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/card2-007m1-2000x1314.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "TAKE TO THE SKY",
-                "showText": true,
-                "text": "Choose a unique Aviation item from our growing range of flight wear. All of which can be fully personalised. &nbsp;",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://bigcatmedia.co.uk/index.php?id_category=61&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">AVIATOR WEAR</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-6-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.6",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Silhouette Series",
-                "showText": true,
-                "text": "Inspried by the wartime reference cards our silhouette series features some WW2 legends printed onto military olive shirts.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://bigcatmedia.co.uk/index.php?id_category=73&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">SILHOUETTE HANGER</a> "
-              }
-            ],
-            "fullScreen": false,
-            "bgColor": "#fff",
-            "showBullets": true
-          },
-          "_anchor": "slider3-46",
-          "articleLayout": false
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-47",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/card2-046-600x400.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Latest Projects",
-          "subtitle1": "Have a look at our latest design work and test prints",
-          "caption1": "We have been producing unique aviation products since 2008 and we have sold our products to a growing woldwide customer base. Here's the latest product news and forthcoming design information.<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">COMING SOON</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/phantom-600x400.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Special Projects",
-          "subtitle2": "Current special product information",
-          "caption2": "We like to produce some special shirt run products from time to time and here you will find detials of any current or soon to be released items.<br><br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"page8.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">SPECIAL PRODUCTS</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-2-600x400.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Webstore",
-          "subtitle3": "Take a quick flight to our dedicated webstore",
-          "caption3": "All of our unique products are here in one easy to use online store. With secure payments and &nbsp;fast shipping we hope you find something you like. All products are designed and printed by us. No outside suppliers here and we print, pack and ship with care.&nbsp;",
-          "button3": "<a data-app-btn=\"true\" href=\"http://bigcatmedia.co.uk/index.php\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TO THE STORE</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x399.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title4": "Contact Us",
-          "subtitle4": "Drop us a line",
-          "caption4": "If you need any information or have any specific product questions please drop us a line. We always like to hear from our customers and look forward to your messages.<br><br>&nbsp;",
-          "button4": "<a data-app-btn=\"true\" href=\"page7.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "msg-box5-48",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-1400x933.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "FLIGHT WEAR",
-          "text": "Special products designed for aviators. <br>Polo Shirts, Flight Shirts and &nbsp;Hi-Viz Vests. <br>Personalised and printed with your name, <br>club or aircraft.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://bigcatmedia.co.uk/index.php?id_category=61&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">Aviator Wear</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
+            ".lead": {
               "color": "#ffffff"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-49",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-4k",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-8-2000x1333.jpg",
-            "bgColor": "#fff",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-17-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
             "bgColorRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
-          "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/bigcatmediaUK\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "title": "SPECIAL PRODUCTS",
+          "text": "<b>Our current Race &amp; Retro special premium products</b>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Coming Soon",
+          "meta": "Special Race &amp; Retro Projects"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-4m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a> "
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-4a",
+          "_anchor": "contacts1-4n",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -3478,7 +3188,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bcm-ebaylogo-128x36.png",
+              "src": "@PROJECT_PATH@/assets/images/v2-logo-128x36.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -3498,7 +3208,7 @@
         },
         {
           "_name": "footer1",
-          "_anchor": "footer1-4b",
+          "_anchor": "footer1-4o",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
