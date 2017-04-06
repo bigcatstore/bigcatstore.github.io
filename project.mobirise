@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page3.html",
+    "currentPage": "page2.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1418,7 +1418,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1477,7 +1477,7 @@
           "_name": "social-buttons2",
           "_anchor": "social-buttons2-1b",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
