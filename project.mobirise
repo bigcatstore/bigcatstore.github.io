@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page5.html",
+    "currentPage": "page3.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -323,11 +323,11 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-8-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1176.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.3",
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
@@ -751,6 +751,82 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "slider3",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-10-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "CLASSIC CARS",
+                "showText": true,
+                "text": "We have a growing range of classic car designs featuring some of the greatest automobile designs. From Italian legends to British icons.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://bigcatmedia.co.uk/index.php?id_category=65&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">CLASSICS GARAGE</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-12-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "MOTORSPORT",
+                "showText": true,
+                "text": "Our Motorsport range covers some the greatest cars and races. We have the cars and tracks that have shaped the sport.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://bigcatmedia.co.uk/index.php?id_category=69&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">PIT &amp; PADDOCK</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-11-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "CLASSIC BIKES",
+                "showText": true,
+                "text": "Classic bikes from all eras make up our motorcycle heritage range. &nbsp;There is something for all tastes in bikers corner.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://bigcatmedia.co.uk/index.php?id_category=67&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">BIKERS CORNER</a> "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-13-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "CLASSIC TRACTORS",
+                "showText": true,
+                "text": "Choose from the iconic classic tractors range which includes many of the all time favourites.&nbsp;",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://bigcatmedia.co.uk/index.php?id_category=71&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">TRACTOR BARN</a> "
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider3-1n",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "features3",
           "_anchor": "features3-1g",
           "_params": {
@@ -865,82 +941,6 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider3",
-          "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": 5,
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-10-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "CLASSIC CARS",
-                "showText": true,
-                "text": "We have a growing range of classic car designs featuring some of the greatest automobile designs. From Italian legends to British icons.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://bigcatmedia.co.uk/index.php?id_category=65&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">CLASSICS GARAGE</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-12-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "MOTORSPORT",
-                "showText": true,
-                "text": "Our Motorsport range covers some the greatest cars and races. We have the cars and tracks that have shaped the sport.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://bigcatmedia.co.uk/index.php?id_category=69&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">PIT &amp; PADDOCK</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-11-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "CLASSIC BIKES",
-                "showText": true,
-                "text": "Classic bikes from all eras make up our motorcycle heritage range. &nbsp;There is something for all tastes in bikers corner.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://bigcatmedia.co.uk/index.php?id_category=67&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">BIKERS CORNER</a> "
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/img-13-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.5",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "CLASSIC TRACTORS",
-                "showText": true,
-                "text": "Choose from the iconic classic tractors range which includes many of the all time favourites.&nbsp;",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://bigcatmedia.co.uk/index.php?id_category=71&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">TRACTOR BARN</a> "
-              }
-            ],
-            "fullScreen": false,
-            "bgColor": "#fff",
-            "showBullets": true
-          },
-          "_anchor": "slider3-1n",
-          "articleLayout": false
-        },
-        {
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#232323"
@@ -959,11 +959,11 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-8-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-18-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.6",
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
@@ -1468,7 +1468,7 @@
               "color": "#232323"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -1481,11 +1481,11 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-8-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-3-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.3",
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
