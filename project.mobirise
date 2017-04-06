@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "page5.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -2127,7 +2127,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.3",
             "overlayColor": "#000000",
             "inverse": false,
             "showTitle": true,
@@ -2157,7 +2157,7 @@
             }
           },
           "title": "SHOP RACE &amp; RETRO",
-          "text": "<b>Take a look at our current products.</b>",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://bigcatmedia.co.uk/index.php?id_category=63&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">SHOP NOW</a>"
         },
         {
