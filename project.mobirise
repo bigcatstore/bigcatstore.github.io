@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -23,7 +23,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 169,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -539,7 +541,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "&nbsp;<p>Since 2008 we have been designing and printing unique products under the Big Cat Media name and our two main brands. Aeroclassic for our aviation based products and Race &amp; Retro which focuses on classic cars, motorbikes and other petrol fuelled subjects. Our products are designed to offer both originality and high quality print. We have over 35 years of print and graphics trade experience and we don't use third party printers or shippers and every single item and order has been deisgned, printed, packed and shipped by us. We take the quality of our products very seriously and we use the best materials and garments combined with both traditional printing methods and the latest in digital print technology. Even the way we pack and ship our orders has been invested in and you can be assured that where ever you are in the world your order will arrive well packaged and on time. </p><p><br></p><p>Our products are only sold directly by us and we ship daily to our woldwide customer base . We do not use re-sellers or stockists and we guard our designs and products closely as they are the result of many years of development. We are constantly adding new designs and products to our growing range and we are always keen to hear from our customers with ideas for new designs so please drop us a line if you have an idea that you would like to see in print. &nbsp;Many of our long standing customers are now good friends and we hope that you will choose to join us as we produce some unique graphics based items.</p>"
+          "text": "&nbsp;Since 2008 we have been designing and printing unique products under the Big Cat Media name and our two retail brands. Aeroclassic is our aviation based range and Race &amp; Retro products focus on classic cars, motorbikes and other petrol fuelled subjects. Our products are designed to offer both originality and high quality print. We have over 35 years of print and graphics trade experience and we do not use third party printers or shippers. Every single item and order has been designed, printed, packed and shipped by us. We take the quality of our products very seriously and we use the best materials and garments combined with both traditional printing methods and the latest in digital print technology. Even the way we pack and ship our orders has been invested in and you can be assured that where ever you are in the world your order will arrive well packaged and on time.&nbsp;<div><br></div><div>Our products are only sold directly by us and we ship daily to our worldwide customer base . We do not use re-sellers or stockists and we guard our designs and products closely as they are the result of many years of development. We are constantly adding new designs and products to our growing range and we are always keen to hear from our customers with ideas for new designs so please drop us a line if you have an idea that you would like to see in print.  Many of our long standing customers are now good friends and we hope that you will choose to join us as we produce some unique printed items.</div><div><br><p><br></p></div>"
         },
         {
           "_tags": [
@@ -1618,7 +1620,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media1": {
             "image": {
@@ -1634,8 +1636,8 @@
           },
           "title1": "Phantom",
           "subtitle1": "Fly Navy with this retro Phantom Design",
-          "caption1": "Now available to buy from our store is the brand new Phantom in Royal Navy livery. Printed onto a Graphite Grey Fruit of the Loom Super Premium shirt it makes a great gift for navy jet fans.<br>NOW LIVE AND IN STOCK",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption1": "Now available to buy from our store is the brand new Phantom in Royal Navy livery. Printed onto a Graphite Grey Fruit of the Loom Super Premium shirt it makes a great gift for navy jet fans.<br>NOW LIVE AND IN STOCK<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://bigcatmedia.co.uk/index.php?id_product=1039&amp;controller=product&amp;live_configurator_token=92ae747700ee3b0c5407b564373b2d8a&amp;id_shop=1&amp;id_employee=1&amp;theme=theme7&amp;theme_font=font3\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-600x403.jpg",
@@ -1650,8 +1652,8 @@
           },
           "title2": "R22",
           "subtitle2": "The classic rotary trainer",
-          "caption2": "Coming very soon is our brand new Robinson R22 design. We haven't had an R22 in the range for quite a while now and this brand new design is only a few weeks away form going into print. Keep watching this space for more updates. &nbsp;<br>NOW LIVE AND IN STOCK<br><br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption2": "Coming very soon is our brand new Robinson R22 design. We haven't had an R22 in the range for quite a while now and this brand new design is only a few weeks away form going into print. Keep watching this space for more updates. &nbsp;<br>NOW LIVE AND IN STOCK<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://bigcatmedia.co.uk/index.php?id_product=1047&amp;controller=product&amp;live_configurator_token=92ae747700ee3b0c5407b564373b2d8a&amp;id_shop=1&amp;id_employee=1&amp;theme=theme7&amp;theme_font=font3\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/2006-show-033-600x400.jpg",
@@ -1666,8 +1668,8 @@
           },
           "title3": "Harvard",
           "subtitle3": "An all time classic aircraft",
-          "caption3": "With our previous Harvard design now sold out we are currently working on a brand new design of this iconic aircraft. It's going to be printed in yellow onto a deep navy blue shirt and should be live in a few weeks time.<br><br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption3": "With our previous Harvard design now sold out we are currently working on a brand new design of this iconic aircraft. It's going to be printed in yellow onto a deep navy blue shirt and should be live in a few weeks time.<br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
