@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1669,7 +1669,7 @@
           "title3": "Harvard",
           "subtitle3": "An all time classic aircraft",
           "caption3": "With our previous Harvard design now sold out we are currently working on a brand new design of this iconic aircraft. It's going to be printed in yellow onto a deep navy blue shirt and should be live in a few weeks time.<br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
