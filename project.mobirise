@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 169,
+    "uniqCompNum": 170,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -1560,32 +1560,25 @@
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
-            "B": {
+            "H3": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "36px",
-              "color": "#000000"
-            },
-            "SMALL": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "36px",
-              "color": "#000000"
+              "font-size": "36px"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1t",
+          "_anchor": "header3-4p",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "6",
+            "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
           },
           "title": "COMING SOON",
-          "meta": "<br><b><span style=\"font-style: normal;\">COMING</span> SOON</b>"
+          "meta": ""
         },
         {
           "_tags": [
