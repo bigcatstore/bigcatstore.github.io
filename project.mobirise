@@ -1574,11 +1574,11 @@
           "_anchor": "header3-4p",
           "_params": {
             "paddingTop": "6",
-            "paddingBottom": 1,
+            "paddingBottom": "3",
             "bgColor": "#fff",
-            "showMeta": true
+            "showMeta": false
           },
-          "title": "COMING SOON",
+          "title": "<i>COMING SOON</i>",
           "meta": ""
         },
         {
