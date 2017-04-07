@@ -1580,12 +1580,12 @@
           "_anchor": "header3-1t",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgColor": "#fff",
             "showMeta": true
           },
           "title": "COMING SOON",
-          "meta": "<br>COMING SOON"
+          "meta": "<br><b><span style=\"font-style: normal;\">COMING</span> SOON</b>"
         },
         {
           "_tags": [
