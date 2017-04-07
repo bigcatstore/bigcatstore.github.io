@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "page4.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1190,7 +1190,7 @@
             "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": "7",
+            "timeout": "5",
             "slides": [
               {
                 "active": false,
@@ -1565,6 +1565,12 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "36px",
               "color": "#000000"
+            },
+            "SMALL": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "36px",
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -1573,13 +1579,13 @@
           "_name": "header3",
           "_anchor": "header3-1t",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "3",
             "bgColor": "#fff",
             "showMeta": true
           },
           "title": "COMING SOON",
-          "meta": "<br><br><b>COMING SOON</b>"
+          "meta": "<br>COMING SOON"
         },
         {
           "_tags": [

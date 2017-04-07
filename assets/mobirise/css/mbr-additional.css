@@ -773,11 +773,17 @@ h6,
 }
 
 
+
 #header3-1t .mbr-section-title,
 #header3-1t .mbr-section-subtitle {
   text-align: center;
 }
 #header3-1t B {
+  font-family: 'Oswald', sans-serif;
+  font-size: 36px;
+  color: #000000;
+}
+#header3-1t SMALL {
   font-family: 'Oswald', sans-serif;
   font-size: 36px;
   color: #000000;
