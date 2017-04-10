@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page3.html",
+    "currentPage": "page5.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -2141,7 +2141,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-18-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/9177-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2409,7 +2409,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/bcm-ebaylogo-445x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/bcm-ebaylogo-445x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
