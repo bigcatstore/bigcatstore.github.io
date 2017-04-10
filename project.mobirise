@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "page5.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 170,
+    "uniqCompNum": 175,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -229,7 +229,7 @@
           },
           "title1": "About Us",
           "subtitle1": "Who we are and what we do",
-          "caption1": "We have been producing unique printed products since 2008 and we sell to a growing worldwide customer base . Here is a brief introduction to Big Cat Media.<br><br><br>",
+          "caption1": "We have been producing unique printed products since 2008, selling to a growing worldwide customer base. Here is a brief introduction to Big Cat Media.<br><br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ABOUT US</a>",
           "media2": {
             "image": {
@@ -1203,7 +1203,7 @@
                 "showTitle": true,
                 "title": "AIRLINERS",
                 "showText": true,
-                "text": "Choose from the growing range of heavy traffic designs. From retro airline wear to classic 747, VC10 and Airbus designs.",
+                "text": "Commercial airliner and air travel designs",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://bigcatmedia.co.uk/index.php?id_category=57&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">AIRLINER TRAVEL</a> "
               },
@@ -1218,7 +1218,7 @@
                 "showTitle": true,
                 "title": "Military Aviation",
                 "showText": true,
-                "text": "From classic Spitfires and Hurricanes to Buccaneers and Phantoms have a browse through our military collection.",
+                "text": "Classic military aviation designs",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://bigcatmedia.co.uk/index.php?id_category=53&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">MILITARY HANGER</a> "
               },
@@ -1232,7 +1232,7 @@
                 "showTitle": true,
                 "title": "General Aviation",
                 "showText": true,
-                "text": "From the ever popular Cessnas and Pipers to Microlights<br> and Helicopters.&nbsp;",
+                "text": "Ever popular general aviation designs&nbsp;",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://bigcatmedia.co.uk/index.php?id_category=59&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">FLYING CLUB</a> "
               },
@@ -1246,7 +1246,7 @@
                 "showTitle": true,
                 "title": "VINTAGE",
                 "showText": true,
-                "text": "Our Vintage collection aims to evoke the feel of some truly classic aircraft. &nbsp;There really is nothing quite like an old aeroplane !&nbsp;",
+                "text": "Our collection of iconic vintage aircraft",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://bigcatmedia.co.uk/index.php?id_category=55&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">VINTAGE HANGER</a> "
               },
@@ -1260,7 +1260,7 @@
                 "showTitle": true,
                 "title": "TAKE TO THE SKY",
                 "showText": true,
-                "text": "Choose a unique Aviation item from our growing range of flight wear. All of which can be fully personalised. &nbsp;",
+                "text": "Unique personalised aviator wear &nbsp;",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://bigcatmedia.co.uk/index.php?id_category=61&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">AVIATOR WEAR</a> "
               },
@@ -1275,7 +1275,7 @@
                 "showTitle": true,
                 "title": "Silhouette Series",
                 "showText": true,
-                "text": "Inspried by the wartime reference cards our silhouette series features some WW2 legends printed onto military olive shirts.",
+                "text": "Military aircraft silhouette designs",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://bigcatmedia.co.uk/index.php?id_category=73&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">SILHOUETTE HANGER</a> "
               }
@@ -1411,7 +1411,10 @@
           "_name": "msg-box5",
           "_styles": {
             "P": {
-              "text-align": "right"
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left"
             }
           },
           "_anchor": "msg-box5-19",
@@ -1431,7 +1434,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
+            "inverse": true,
             "showTitle": true,
             "showText": true,
             "showButtons": true
@@ -1458,7 +1461,7 @@
               "size": 0
             }
           },
-          "title": "FLIGHT WEAR",
+          "title": "AVIATOR WEAR",
           "text": "Special products designed for aviators. <br>Polo Shirts, Flight Shirts and &nbsp;Hi-Viz Vests. <br>Personalised and printed with your name, <br>club or aircraft.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://bigcatmedia.co.uk/index.php?id_category=61&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">AVIATOR WEAR</a>"
         },
@@ -2044,7 +2047,7 @@
           },
           "title2": "Chevrolet Panel Van",
           "subtitle2": "The American Classic",
-          "caption2": "We are currently working on a new classic Hot Rod design featuring the timeless Chevrolet Panel Van. Work is progressing well and we hope to be running some print tests very soon . Keep watching this space for more updates. &nbsp;<br><br><br>",
+          "caption2": "We are currently working on a new classic Hot Rod design featuring the timeless Chevrolet Panel Van. Work is progressing well and we hope to be running some print tests very soon. Keep watching this space for more updates. &nbsp;<br><br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
           "media3": {
             "image": {
@@ -3172,6 +3175,216 @@
         {
           "_name": "footer1",
           "_anchor": "footer1-4o",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Big Cat Media &nbsp; &nbsp;All images and content are the property of Big Cat Media&nbsp;"
+        }
+      ]
+    },
+    "page10.html": {
+      "settings": {
+        "title": "About Us",
+        "meta_descr": "Web Page Builder Description",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.15rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.245rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-4q",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1.15",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bcm-ebaylogo-445x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://\" aria-expanded=\"false\">NAVIGATE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">About Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Aeroclassic</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Race &amp; Retro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://bigcatmedia.co.uk/index.php\" target=\"_blank\">SHOP</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-4r",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1335.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "ABOUT US",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4s",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Here at Big Cat Media we have been designing and printing our unique products since 2008. We have two retail brands which are Aeroclassic which is our aviation based product range and Race &amp; Retro which has a focus on classic cars, motorbikes and other petrol fuelled subjects. Our creative based products are designed and printed with quality as the prime factor.</p><p><br></p><p>We have over 35 years of print and graphics trade experience and we do not use third party printers or shippers. Every single item and order has been designed, printed, packed and shipped by us. We take the quality of our products very seriously and we use the best materials and garments combined with traditional printing methods and the latest in digital print technology. </p><p><br></p><p>We are higly experienced in shipping our products worldwide and we ship daily to all corners of the globe. The way we pack and ship our orders has been invested in and developed and you can be assured that where ever you are in the world your order will arrive well packaged and on time.&nbsp;</p><div><br></div><div>Our products are only sold directly by us and we ship daily to our worldwide customer base. We do not use re-sellers or stockists and we guard our designs and products closely as they are the result of many years of development. </div><div><br></div><div>We are constantly adding new designs and products to our ranges and we are always keen to hear from our customers with ideas for new designs so please drop us a line if you have an idea that you would like to see in print.  </div><div> </div><div><br></div><div>We hope that you will choose to purchase some of our unique products and we look forward to joining our growing loyal customer base.</div><div><br><p><br></p></div><p></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-4t",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/v2-logo-128x36.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<br>Big Cat Media<br>Online Sales<br>Milton Keynes<br>United Kingdom",
+          "text2": "<strong>Contacts</strong><br>\nEmail: info@bigcatmedia.co.uk<br>\nPhone: 07850 450406<br><br>",
+          "text3": "<strong>Links</strong><br><a href=\"http://bigcatmedia.co.uk/index.php\">Web Store</a><br><a href=\"http://.\"><br></a><br><br>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-4u",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
