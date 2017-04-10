@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "page3.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -768,7 +768,7 @@
                 "showTitle": true,
                 "title": "CLASSIC CARS",
                 "showText": true,
-                "text": "We have a growing range of classic car designs featuring some of the greatest automobile designs. From Italian legends to British icons.",
+                "text": "Some of the greatest classic cars",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://bigcatmedia.co.uk/index.php?id_category=65&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">CLASSICS GARAGE</a> "
               },
@@ -782,7 +782,7 @@
                 "showTitle": true,
                 "title": "MOTORSPORT",
                 "showText": true,
-                "text": "Our Motorsport range covers some the greatest cars and races. We have the cars and tracks that have shaped the sport.",
+                "text": "Racing cars, bikes and tracks",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://bigcatmedia.co.uk/index.php?id_category=69&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">PIT &amp; PADDOCK</a> "
               },
@@ -796,7 +796,7 @@
                 "showTitle": true,
                 "title": "CLASSIC BIKES",
                 "showText": true,
-                "text": "Classic bikes from all eras make up our motorcycle heritage range. &nbsp;There is something for all tastes in bikers corner.",
+                "text": "Classic motorbikes from all eras&nbsp;",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://bigcatmedia.co.uk/index.php?id_category=67&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">BIKERS CORNER</a> "
               },
@@ -811,7 +811,7 @@
                 "showTitle": true,
                 "title": "CLASSIC TRACTORS",
                 "showText": true,
-                "text": "Choose from the iconic classic tractors range which includes many of the all time favourites.&nbsp;",
+                "text": "Iconic classic tractor designs&nbsp;",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://bigcatmedia.co.uk/index.php?id_category=71&amp;controller=category\" data-toolbar=\"-mbrBtnMove\">TRACTOR BARN</a> "
               }
@@ -2409,7 +2409,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/bcm-ebaylogo-445x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/bcm-ebaylogo-445x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
